@@ -3,6 +3,7 @@
 }
 #margin-container h1{
     margin-bottom: 30px;
+    text-align: left;
 }
 .container a img{
     width:150px;
@@ -43,4 +44,21 @@
 }
 .card-img-top{
     margin-left: 50px;
+}
+#special-cat{
+
+    text-align: center !important;
+    border-bottom:10px solid;
+    padding-bottom: 40px;
+    border-image: linear-gradient(90deg, lightsalmon, tomato);  
+    border-image-slice: 1;   
+  
+}
+.box-border{
+    box-shadow: 5px 5px 20px lightsalmon;
+    height:250px;
+    width:250px;
+}
+#footer-img{
+    width:600px;
 }
